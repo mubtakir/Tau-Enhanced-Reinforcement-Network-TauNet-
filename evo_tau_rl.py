@@ -9,7 +9,7 @@
 **Author (Core Ideas & Initial Code):** [BASIL YAHYA ABDULLAH ]
 **AI Assistant (Code Refinement & Implementation):**  AI (via user interaction)
 
-**License:** MIT License (see details below)
+
 
 
 ------------------------------------------------------------------------------
@@ -65,30 +65,6 @@
 ------------------------------------------------------------------------------
                                 **الترخيص**
 ------------------------------------------------------------------------------
-Copyright (c) 2024 [BASIL YAHYA ABDULLAH]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-**شروط إضافية:**
-- يُشترط عند استخدام هذا الكود أو أي جزء منه في مشاريع أخرى ذكر المصدر الأصلي
-  والإشارة إلى المطور [باسل يحيى عبدالله].
-- يجب الحفاظ على حقوق الملكية الفكرية للأفكار المبتكرة المنسوبة للمطور الأصلي.
 
 ------------------------------------------------------------------------------
                             **إخلاء مسؤولية**
